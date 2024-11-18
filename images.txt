@@ -1,2 +1,2 @@
 nginx:latest
-rancher/rancher:2.7.18
+rancher/rancher:v2.7.10
