@@ -1,3 +1,4 @@
 nginx:latest
 rancher/rancher:v2.7.10
 rancher/shell:v0.1.21
+rancher/rancher-agent:v2.7.10-linux-amd64
