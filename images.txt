@@ -2,3 +2,6 @@ nginx:latest
 rancher/rancher:v2.7.10
 rancher/shell:v0.1.21
 rancher/rancher-agent:v2.7.10-linux-amd64
+rancher/fleet:v0.8.1
+rancher/rancher-webhook:v0.3.6
+rancher/gitjob:v0.1.76-security1
