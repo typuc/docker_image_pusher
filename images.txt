@@ -11,3 +11,4 @@ rancher/kubectl:v1.20.2
 langgenius/dify-api:0.12.1
 langgenius/dify-web:0.12.1
 postgres:15-alpine
+dify-sandbox:0.2.10
