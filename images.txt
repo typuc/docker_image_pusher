@@ -3,3 +3,4 @@ langgenius/dify-sandbox:0.2.10
 certbot/certbot
 semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
+ubuntu/squid:latest
