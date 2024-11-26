@@ -8,3 +8,6 @@ rancher/gitjob:v0.1.76-security1
 rancher/mirrored-cluster-api-controller:v1.4.4
 rancher/fleet-agent:v0.8.1
 rancher/kubectl:v1.20.2
+langgenius/dify-api:0.12.1
+langgenius/dify-web:0.12.1
+postgres:15-alpine
