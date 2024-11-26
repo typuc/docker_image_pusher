@@ -1,4 +1,5 @@
 redis:6-alpine
-langgenius/dify-sandbox:0.2.10certbot/certbot
+langgenius/dify-sandbox:0.2.10
+certbot/certbot
 semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
