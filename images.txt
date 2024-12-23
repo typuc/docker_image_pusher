@@ -1,1 +1,1 @@
-dbeaver/cloudbeaver:24.3.0
+rancher/mirrored-prometheus-operator-prometheus-operator:v0.48.0
