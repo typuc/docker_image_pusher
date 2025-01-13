@@ -1,1 +1,1 @@
-rancher/mirrored-prometheus-operator-prometheus-operator:v0.48.0
+sourcegraph/server:5.11.4013
