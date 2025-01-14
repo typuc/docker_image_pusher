@@ -1,1 +1,1 @@
-sourcegraph/server:305188_2024-12-20_5.11-2b467feb8f9e
+sourcegraph/server:4.5.0
