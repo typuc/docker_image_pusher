@@ -1,1 +1,1 @@
-rancher/mirrored-prometheus-operator-prometheus-operator:v0.48.0
+nacos/nacos-server:v2.2.4
