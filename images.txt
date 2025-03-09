@@ -1,1 +1,1 @@
-rancher/mirrored-library-nginx:1.21.1-alpine
+rancher/mirrored-grafana-grafana:7.5.8
