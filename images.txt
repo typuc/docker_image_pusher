@@ -1,1 +1,2 @@
 rancher/mirrored-grafana-grafana:7.5.8
+rancher/mirrored-prometheus-operator-prometheus-config-reloader:v0.48.0
