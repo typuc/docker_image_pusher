@@ -1,1 +1,1 @@
-eswork/redis:4.0.2
+redis:4.0.2
