@@ -1,1 +1,1 @@
-google/cadvisor:latest
+jdee-docker.artifactrepo.jnj.com/docker.io/rancher/backup-restore-operatortag:v4.0.0
