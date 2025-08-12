@@ -1,1 +1,1 @@
-jdee-docker.artifactrepo.jnj.com/docker.io/rancher/backup-restore-operatortag:v4.0.0
+nginx:1.26.3-alpine
