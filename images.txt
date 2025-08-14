@@ -1,9 +1,1 @@
-pinpointdocker/pinpoint-web
-pinpointdocker/pinpoint-collector
-pinpointdocker/pinpoint-quickstart
-pinpointdocker/pinpoint-batch
-pinpointdocker/pinpoint-hbase
-pinpointdocker/pinpoint-agent
-zookeeper:3.4.13
-redis:7.0.14
-mysql:8.0
+pinpointdocker/pinpoint-flink
