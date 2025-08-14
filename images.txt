@@ -1,1 +1,1 @@
-pinpointdocker/pinpoint-flink
+pinpointdocker/pinpoint-flink-taskmanager
