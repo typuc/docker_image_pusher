@@ -1,1 +1,4 @@
-pinpointdocker/pinpoint-flink-taskmanager
+getsentry/relay:24.12.1
+getsentry/snuba:24.12.1
+getsentry/symbolicator:24.12.1
+getsentry/vroom:24.12.1
