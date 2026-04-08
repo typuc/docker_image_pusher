@@ -1,5 +1,1 @@
-n8nio/n8n:2.11.4
-redis:6-alpine
-postgres:16
-n8nio/runners
-
+registry-1.docker.io/v2/docker/dockerfile/manifests/1.5
