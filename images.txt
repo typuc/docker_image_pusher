@@ -1,1 +1,1 @@
-ghcr.io/headlamp-k8s/headlamp:0.42.0
+ghcr.io/headlamp-k8s/headlamp:latest
