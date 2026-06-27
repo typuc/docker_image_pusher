@@ -1,1 +1,1 @@
-rancher/rancher/fleet-agent:v0.15.2
+rancher/fleet-agent:v0.15.2
