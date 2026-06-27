@@ -1,1 +1,1 @@
-rancher/cluster-api-controller:v1.12.7
+rancher/rancher-agent:v2.14.2
