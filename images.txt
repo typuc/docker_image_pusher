@@ -1,1 +1,1 @@
-rancher/fleet-agent:v0.15.2
+nginx:1.25.3
