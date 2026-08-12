@@ -1,1 +1,1 @@
-kube-debug/debug-agent:latest
+aylei/debug-agent:latest
