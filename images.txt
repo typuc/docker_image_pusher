@@ -1,1 +1,1 @@
-openkruise/kruise-manager:v1.9.1
+nicolaka/netshoot
