@@ -1,1 +1,1 @@
-nicolaka/netshoot
+kube-debug/debug-agent:latest
