@@ -1,1 +1,1 @@
-aylei/debug-agent:latest
+jamesgrantmediakind/debug-agent:latest
