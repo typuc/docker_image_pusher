@@ -1,1 +1,1 @@
-jamesgrantmediakind/debug-agent:latest
+ghcr.io/ansible/awx_devel
