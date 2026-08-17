@@ -1,1 +1,1 @@
-ghcr.io/ansible/awx_devel
+ansible/awx_devel
