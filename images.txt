@@ -1,1 +1,2 @@
-quay.io/ansible/receptor:devel
+redis:latest
+quay.io/sclorg/postgresql-15-c9s
