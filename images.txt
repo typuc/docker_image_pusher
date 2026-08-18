@@ -1,1 +1,1 @@
-gcr.io/kubebuilder/kube-rbac-proxy:v0.15.0
+quay.io/ansible/awx-operator:2.19.1
