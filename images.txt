@@ -1,2 +1,1 @@
-redis:latest
-quay.io/sclorg/postgresql-15-c9s
+ghcr.io/ansible/awx_devel:24.6.1
