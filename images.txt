@@ -1,1 +1,1 @@
-ghcr.io/ansible/awx_devel:24.6.1
+quay.io/ansible/awx
