@@ -1,1 +1,1 @@
-docker.io/redis:7
+quay.io/ansible/awx-ee:24.6.1
